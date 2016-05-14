@@ -27,7 +27,7 @@ class CalculatorBrain
         "cos": Operation.UnaryOperation(cos),
         "⨉": Operation.BinaryOperation(multiply),
         "=": Operation.Equals
-        //comment
+        //comment huaha
     ]
     
     enum Operation{
